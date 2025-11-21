@@ -11,3 +11,8 @@ This information presented in Part 1 establishes a foundation for understanding 
 <a href="part 1 the core.pdf">Download Here</a>
 
 
+
+
+## Socials:
+<a href="(https://x.com/pshs04)"> Twitter/X </a>
+<a href="(https://substack.com/@pshs04)">Writing and Articles hosted on Substack. Support me here</a>
