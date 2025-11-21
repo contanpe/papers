@@ -15,4 +15,6 @@ This information presented in Part 1 establishes a foundation for understanding 
 
 ## Socials:
 [Twitter/X](https://x.com/pshs04)
+
+
 [Writing and Articles hosted on Substack. Support me here](https://substack.com/@pshs04)
