@@ -16,6 +16,14 @@ _Edit on March 4, 2026: Fully described the electron, refined mathematical and e
 - Meyl (2003) — Scalar Waves: Potential Vortex Theory & Extended Field Equations
 - Lyne (1998) — Occult Ether Physics: Tesla's Dynamic Theory of Gravity & Electropulsion
 
+_The problems solved so far:_
+
+Problem 1. The STAR equation of state: The quantitative form of n(r) — the exact relationship between STAR packing density and re-emission speed — has not been derived from first principles. This equation is the central missing piece. It must reproduce Beckmann's c(φ) formula at large scales and the Compton-wavelength focal condition at particle scales.
+
+Problem 3. The transition from classical to quantum regime: At what scale does the STAR lattice's discrete node structure become relevant, and how does this discreteness produce the quantization of energy that appears in quantum mechanics? 
+
+Problem  4. Meyl's scalar wave propagation speed and causality: Meyl claims that scalar waves (potential vortex propagation) can under certain conditions exceed c.
+
 Primary references so far:
 
 - Grandics (2002) — Space-Time Array Resonators and the Genesis of Forces
