@@ -16,7 +16,19 @@ _Edit on March 4, 2026: Fully described the electron, refined mathematical and e
 - Meyl (2003) — Scalar Waves: Potential Vortex Theory & Extended Field Equations
 - Lyne (1998) — Occult Ether Physics: Tesla's Dynamic Theory of Gravity & Electropulsion
 
+Primary references so far:
 
+- Grandics (2002) — Space-Time Array Resonators and the Genesis of Forces
+- Haramein & Rauscher (2007) — Spinors, Twistors, Quaternions, and the Torus Topology
+- Whittaker (1903–1904) / Titleman (2024) — Scalar Potential Decomposition of EM Fields
+- Dowdye — Extinction Shift Principle, Galilean Electrodynamics
+- Russell (1947, 1953) — Wave-Field Cosmogony, Rhythmic Balanced Interchange
+- Verbelli (2025) — Galilean Variance and Source-Relative Light Propagation
+- Beckmann (1987) — Einstein Plus Two: The Gravitational Field as Light Medium
+- pshs04 (2025) — Quaternions, Torsion and Physics (Parts 1 & 2)
+- Williamson & van der Mark (1997) — The Electron as a Toroidal Photon
+- Meyl (2003) — Scalar Waves: Potential Vortex Theory & Extended Field Equations
+- Lyne (1998) — Occult Ether Physics: Tesla's Dynamic Theory of Gravity & Electropulsion
 
 ### THE CYCLE 
 _A Review of Whole Planet Coupling, Water's importance, The Organic Solar System’s influence on Earth, and a Refined Mechanism for the Core Mantle Decoupling Event (Pole Shift)._
