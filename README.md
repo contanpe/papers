@@ -5,11 +5,16 @@ Website host for long-form writing, and papers
 ### GEOMETRIC GENESIS
 _An Exploratory Theory of Matter, Fields, and Creation_
 
-<a href="Geometric Genesis - Exploratory theory of matter, fields and creation.pdf">Download Here</a>
+<a href="Geometric_Genesis edit 3 4 2026.pdf">Download Here</a>
 
-The Geometric Genesis Framework (GGF) is a unified exploratory work of matter, electromagnetism, and gravity synthesized from eight independent lines of research that converge, from radically different starting points, on a single physical picture, as thought of by the author. 
+The Geometric Genesis framework is a unified exploratory work of matter, electromagnetism, and gravity synthesized from ten (and counting) independent lines of research that converge, from radically different starting points, on a single physical picture, as thought of by the author. 
 
-It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the eight-pillar convergence documented here becomes visible: eight independent investigators describe the same physics in eight different languages.
+It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the pillar convergence documented here becomes visible: 10 independent investigators describe the same physics in eight different languages.
+
+_Edit on March 4, 2026: Fully described the electron, refined mathematical and experimental proof, added 2 new primary sources:_ 
+
+- Meyl (2003) — Scalar Waves: Potential Vortex Theory & Extended Field Equations
+- Lyne (1998) — Occult Ether Physics: Tesla's Dynamic Theory of Gravity & Electropulsion
 
 
 
