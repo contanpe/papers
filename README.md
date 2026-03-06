@@ -11,7 +11,7 @@ The Geometric Genesis framework is a unified exploratory work of matter, electro
 
 It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the pillar convergence documented here becomes visible: 10 independent investigators describe the same physics in eight different languages.
 
-_Edit on March 6, 2026: Fully described the proton, refined mathematical and experimental proof (again), improved word flow and structure in certain places, started laying the groundwork for atoms. No neutron derived yet. Some sources are still missing, but most important added:_ 
+_Edit on March 6, 2026: WIP Work on the proton and mass, refined mathematical and experimental proof (again), improved word flow and structure in certain places, started laying the groundwork for atoms. Received critique. Added Euler-Lagrange for clarification. No neutron derived yet. Some sources are still missing, but most important added:_ 
 
 - Larry Reed (2024) - certain chapters of his Quantum Wave Dynamics
 - Yee, J. EWT (2025) - Energy wave theory
