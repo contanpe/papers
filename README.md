@@ -5,11 +5,15 @@ Website host for long-form writing, and papers
 ### GEOMETRIC GENESIS
 _An Exploratory Theory of Matter, Fields, and Creation_
 
-<a href="Geometric_Genesis edit 6 3 2026 mass and elements.pdf">Download Here</a>
+<a href="Geometric_Genesis edit 6 3 2026 mass and elements.pdf">Download Latest Here</a>
 
-The Geometric Genesis framework is a unified exploratory work of matter, electromagnetism, and gravity synthesized from ten (and counting) independent lines of research that converge, from radically different starting points, on a single physical picture, as thought of by the author. 
+The Geometric Genesis framework is a unified exploratory work of matter, electromagnetism, and gravity synthesized from more than a dozen independent lines of research that converge, from radically different starting points, on a single physical picture, as thought of by the author. 
 
-It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the pillar convergence documented here becomes visible: 10 independent investigators describe the same physics in eight different languages.
+It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the pillar convergence documented here becomes visible: independent investigators describe the same physics in different languages.
+
+_Edit on March 9, 2026: The Framework's span is so large that it has been split into parts. Part I, now completely reworked and reformatted, establishes this framework through interlocking threads, and through an ancient indian system of mathematics, proposes a derivation where the sole axiomatic primitive is the speed of light. This part also establishes that Gravity is primarily an optical mechanism, and provides the primary equations of state._
+
+------------
 
 _Edit on March 6, 2026: WIP Work on the proton and mass, refined mathematical and experimental proof (again), improved word flow and structure in certain places, started laying the groundwork for atoms. Received critique. Added Euler-Lagrange for clarification. No neutron derived yet. Some sources are still missing, but most important added:_ 
 
