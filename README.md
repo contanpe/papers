@@ -9,7 +9,7 @@ The Geometric Genesis framework is a unified exploratory work of matter, electro
 
 It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the pillar convergence documented here becomes visible: independent investigators describe the same physics in different languages.
 
-<a href="GG_Part_I_Updated-3.pdf">Download Part I Here</a>
+<a href="GG_Part_I_Updated-4.pdf">Download Part I Here</a>
 
 _Edit on March 10, 2026: includes corroborating annotations from Physical Review Research — “Emergent Quantization from a Dynamic Vacuum, given both papers are essentially presenting the same thing”_
 
