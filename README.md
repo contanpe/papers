@@ -11,6 +11,8 @@ It does not propose a new physics. It proposes that physics already knows what i
 
 <a href="Geometric_Genesis edit 6 3 2026 mass and elements.pdf">Download Part I Here</a>
 
+_Edit on March 10, 2026: includes corroborating annotations from Physical Review Research — “Emergent Quantization from a Dynamic Vacuum, given both papers are essentially presenting the same thing”_
+
 _Edit on March 9, 2026: The Framework's span is so large that it has been split into parts. Part I, now completely reworked and reformatted, establishes this framework through interlocking threads, and through an ancient indian system of mathematics, proposes a derivation where the sole axiomatic primitive is the speed of light. This part also establishes that Gravity is primarily an optical mechanism, and provides the primary equations of state._
 
 ------------
