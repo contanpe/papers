@@ -9,7 +9,13 @@ The Geometric Genesis framework is a unified exploratory work of matter, electro
 
 It does not propose a new physics. It proposes that physics already knows what it needs to know and has been obscuring it — through a notational deletion (Heaviside’s removal of the quaternion scalar), a philosophical commitment (Einstein’s postulate of universal c-invariance), and a geometric overreach (the identification of the gravitational potential field with the curvature of spacetime itself). Remove these three obscurations and the pillar convergence documented here becomes visible: independent investigators describe the same physics in different languages.
 
-<a href="GG_Part_I_Updated-4.pdf">Download Part I Here</a>
+Part I: The Structured Vacuum - Derivation of ℏ and Gravitational Optics, Perihelion Precession, Light Deflection, and Gravitational Redshift from a Single Axiomatic Primitive
+
+Part II: Reconciling Electromagnetism and Gravity - Particles as Focal Points of Dual Converging GRIN Cones at Cubic Wave-Field Boundaries, Electromagnetism and Gravity as the Two Whittaker Modes of a Locally-Varying-c Vacuum, Sommerfeld Fine Structure without Special Relativity, The Six Dowdye Extinction-Shift Equations in Local-c Form, Longitudinal propagating photons as their own solitons. Originally formulated March 4, 2026
+
+<a href="GG_Part_I_Updated-4.pdf">Download Part I Here</a> - 
+
+<a href="GG_Part_II_Updated_v2.pdf">Download Part II Here</a>
 
 _Edit on March 10, 2026: includes corroborating annotations from Physical Review Research — “Emergent Quantization from a Dynamic Vacuum, given both papers are essentially presenting the same thing”_
 
