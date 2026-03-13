@@ -17,7 +17,9 @@ Part II: Reconciling Electromagnetism and Gravity - Particles as Focal Points of
 
 <a href="GG_Part_I_Updated-4.pdf">Download Part I Here</a> - 
 
-<a href="GG_Part_II_Updated_v2.pdf">Download Part II Here</a>
+<a href="GG_Part_II_Topology_Quaternions.pdf">Download Part II Here</a>
+
+_Edit on March 14 12:01 am: Includes substantial quaternion language and some knot language to bridge over. Started converting into octonions... So part 3 will be an exploratory octonion paper_
 
 _Edit on March 10, 2026: includes corroborating annotations from Physical Review Research — “Emergent Quantization from a Dynamic Vacuum, given both papers are essentially presenting the same thing”_
 
